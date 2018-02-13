@@ -31,3 +31,8 @@ The generated `index.html` file will look like:
 </body>
 </html>
 ```
+
+## Support on Beerpay
+Hey dude! Help me out for a couple of :beers:!
+
+[![Beerpay](https://beerpay.io/byjokese/Generate-Index-Files/badge.svg?style=beer-square)](https://beerpay.io/byjokese/Generate-Index-Files)  [![Beerpay](https://beerpay.io/byjokese/Generate-Index-Files/make-wish.svg?style=flat-square)](https://beerpay.io/byjokese/Generate-Index-Files?focus=wish)
